@@ -1,0 +1,27 @@
+{
+  "public": {
+    "default": {
+      "commerce-core-endpoint": "https://edge-graph.adobe.io/api/a6b07b21-3c3a-4c66-81dc-d6ff14125bbb/graphql",
+      "commerce-endpoint": "https://na1-sandbox.admin.commerce.adobe.com/96gdktEG7SgkuodyEejG9F/graphql",
+      "headers": {
+        "cs": {
+          "ac-channel-id": "9ced53d7-35a6-40c5-830e-8288c00985ad",
+          "ac-environment-id": "Fwus6kdpvYCmeEdcCX7PZg",
+          "ac-price-book-id": "west_coast_inc",
+          "ac-scope-locale": "en-US"
+        }
+      },
+      "analytics": {
+        "base-currency-code": "USD",
+        "environment": "Production",
+        "store-id": 1,
+        "store-name": "ACO Demo",
+        "store-url": "https://main--sandbox7--arwadbe.aem.page",
+        "store-view-id": 1,
+        "store-view-name": "Default Store View",
+        "website-id": 1,
+        "website-name": "Main Website"
+      }
+    }
+  }
+}
