@@ -2,7 +2,7 @@
   "public": {
     "default": {
       "commerce-core-endpoint": "https://na1-sandbox.api.commerce.adobe.com/96gdktEG7SgkuodyEejG9F/graphql",
-      "commerce-endpoint": "https://na1-sandbox.api.commerce.adobe.com/96gdktEG7SgkuodyEejG9F/graphql"
+      "commerce-endpoint": "https://na1-sandbox.api.commerce.adobe.com/96gdktEG7SgkuodyEejG9F/graphql",
       "headers": {
         "cs": {
           "ac-channel-id": "9ced53d7-35a6-40c5-830e-8288c00985ad",
