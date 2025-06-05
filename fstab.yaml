@@ -2,6 +2,7 @@ mountpoints:
   /:
     url: https://content.da.live/arwadbe/sandbox7/
     type: markup
+  /: https://drive.google.com/drive/folders/16PU9y_aG7RM2syPLdjZf5Ok1Yb_rA3Cz
 
 folders:
   /products/: /products/default
